@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdityaIDE
-- 👀 I’m interested in Game Developer, Web Developer, Business Man
-- 🌱 I’m currently learning Basic Web Development
-- 💞️ I’m looking to collaborate on Business
+- 👀 I’m interested in Game Developer, DevOps, and business
+- 🌱 I’m currently learning Basic DevOps
 - 📫 How to reach me at Gmail adityawic.05@gmail.com
 
 <!---
